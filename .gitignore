@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Android/IDEs
+.idea/
+.gradle/
+build/
+*.apk
+*.iml
+local.properties
+
+# Data/logs
+*.csv
+*.log
